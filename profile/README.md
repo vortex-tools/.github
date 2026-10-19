@@ -12,7 +12,8 @@
 <p align="center">
   <a href="https://app.vx.tools"><b>app.vx.tools</b></a> ·
   <a href="https://vx.tools">vx.tools</a> ·
-  <a href="https://api.vx.tools/llms.txt">API</a>
+  <a href="https://api.vx.tools/llms.txt">API</a> ·
+  <a href="https://blog.vx.tools">Blog</a>
 </p>
 
 ## Tools
