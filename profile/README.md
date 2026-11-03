@@ -20,7 +20,7 @@
 
 | Tool | What it does | Status |
 | --- | --- | --- |
-| **[vortex-dashboard](https://app.vx.tools)** | The validator explorer at app.vx.tools: vote quality and block income across the cluster, epoch by epoch, served from a public read-only API with no key. | Live at [app.vx.tools](https://app.vx.tools) · source coming soon |
+| **[vortex-dashboard](https://github.com/vortex-tools/vortex-dashboard)** | The validator explorer at app.vx.tools: vote quality and block income across the cluster, epoch by epoch, served from a public read-only API with no key. | Live at [app.vx.tools](https://app.vx.tools) · [source](https://github.com/vortex-tools/vortex-dashboard) |
 | **vortex-cli** | Operator shell for an Agave validator: versioned builds with rollback, service control, identity switching and cross-host handoff, a self-checking config. | Coming soon |
 | **vortex-monitor** | Log monitor and TUI that knows what your build can report (agave, jito, instrumented), with operator alerts and a read-only HTTP/MCP interface for agents. | Coming soon |
 | **vortex-ansible** | Ansible playbooks that turn a fresh Ubuntu machine into a validator host, with read-only inspection first and a report of what is left to do. | Coming soon |
